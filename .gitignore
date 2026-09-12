@@ -1,6 +1,0 @@
-node_modules
-dist
-dist-artifact
-*.local
-*.tsbuildinfo
-.DS_Store
