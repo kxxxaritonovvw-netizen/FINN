@@ -1,0 +1,9 @@
+{
+  "name": "finn",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter @finn/web dev",
+    "build": "pnpm --filter @finn/web build",
+    "typecheck": "pnpm --filter @finn/web typecheck"
+  }
+}
